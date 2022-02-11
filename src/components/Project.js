@@ -5,7 +5,9 @@ import { MdOutlineNavigateBefore } from "react-icons/md";
 export default function Project() {
   return (
     <div className="flex flex-col  items-center">
-      <p>project section</p>
+      <h1>project section</h1>
+
+      <a href="https://sleepy-pare-dcb16e.netlify.app/">neelus store</a>
 
       <Link to="/">
         <MdOutlineNavigateBefore className="animate-bounce text-5xl font-extrabold" />
