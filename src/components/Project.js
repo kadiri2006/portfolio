@@ -6,7 +6,7 @@ export default function Project() {
   return (
     <div className="flex flex-col  items-center">
       <a
-        href="https://sleepy-pare-dcb16e.netlify.app/"
+        href="https://neels.netlify.app/"
         target="_blank"
         className=" font-extrabold animate-bounce"
       >
