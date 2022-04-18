@@ -21,7 +21,7 @@ export default function Card() {
             <img
               src="logo192.png"
               alt=""
-              srcset=""
+              srcSet=""
               className=" inline-block sm:w-6 sm:mb-2 w-4 mb-1"
             />
             <p className="text-gray-600 pt-2 pb-4 px-2 border-b-2 inline-block sm:text-2xl ">
