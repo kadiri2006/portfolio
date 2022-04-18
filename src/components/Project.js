@@ -5,7 +5,7 @@ import { MdOutlineNavigateBefore } from "react-icons/md";
 export default function Project() {
   return (
     <div className="flex flex-col  items-center">
-      <div className=" flex gap-4">
+      <div className=" flex gap-4 outline-dashed">
         <div className=" bg-red-300 p-3 rounded-lg text-yellow-50 transition-transform hover:text-slate-500 hover:scale-105">
           <a
             href="https://kadiri2006.github.io/websiteclone/"
