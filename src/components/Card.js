@@ -38,7 +38,7 @@ export default function Card() {
             <a href="https://twitter.com/iambharath3991" target="_blank">
               <BsTwitter className="hover:bg-blue-500 hover:text-white text-blue-500 rounded-full text-3xl p-1 m-1 sm:mx-3.5" />
             </a>
-            <a href="mailto:kadiri2006@gmail.com " target="_blank">
+            <a href="mailto:iambharath3991@gmail.com " target="_blank">
               <SiGmail className="hover:bg-red-500 hover:text-white text-red-500  hover:rounded-full text-3xl p-1 m-1" />
             </a>
           </div>

@@ -16,7 +16,7 @@ export default function Footer() {
         <a href="https://twitter.com/iambharath3991" target="_blank">
           <BsTwitter className="hover:bg-blue-500 hover:text-white  rounded-full text-3xl p-1 m-1 sm:mx-3.5" />
         </a>
-        <a href="mailto:kadiri2006@gmail.com " target="_blank">
+        <a href="mailto:iambharath3991@gmail.com " target="_blank">
           <SiGmail className="hover:bg-red-500 hover:text-white   hover:rounded-full text-3xl p-1 m-1" />
         </a>
       </div>
